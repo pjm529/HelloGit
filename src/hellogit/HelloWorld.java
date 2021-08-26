@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println("충돌 해결");
 		
 		System.out.println("github 연동 시작");
+		System.out.println("로컬에서 추가");
 	}
 	
 	public static void test() {
