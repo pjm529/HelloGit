@@ -12,6 +12,8 @@ public class HelloWorld {
 		System.out.println("module_B start");
 		
 		System.out.println("충돌 해결");
+		
+		System.out.println("github 연동 시작");
 	}
 	
 	public static void test() {
