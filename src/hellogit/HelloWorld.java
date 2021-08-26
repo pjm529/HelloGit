@@ -11,6 +11,7 @@ public class HelloWorld {
 	
 	public static void test() {
 		System.out.println("새 모듈 작업 완성.");
+		System.out.println("머지완료.");
 	}
 
 }
